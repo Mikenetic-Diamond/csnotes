@@ -4,7 +4,7 @@ This is a place to store my notes for IB CS 2025
 jill!  Look Over Here!
 Today we learned how to kill a banana
 bro why can't my github work?
-Here’s the English translation of the IB SL Computer Science notes summary for the **Network, Logic, Binary, and Computer Organization** units, structured to align with the original content and enhanced with citations from the provided knowledge bases:
+**Network, Logic, Binary, and Computer Organization** units, structured to align with the original content and enhanced with citations from the provided knowledge bases:
 here's the notes:
 ---
 
